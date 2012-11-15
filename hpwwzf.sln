@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hpwwzf", "hpwwzf\hpwwzf.vcproj", "{BD4F1849-5CB8-4707-B2CD-13F91EA4E6F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hpwBierf", "hpwBierf\hpwBierf.vcproj", "{CF135F55-EC87-4A9C-B9DF-DC4FC0DF9CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4F1849-5CB8-4707-B2CD-13F91EA4E6F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD4F1849-5CB8-4707-B2CD-13F91EA4E6F1}.Debug|Win32.Build.0 = Debug|Win32
+		{BD4F1849-5CB8-4707-B2CD-13F91EA4E6F1}.Release|Win32.ActiveCfg = Release|Win32
+		{BD4F1849-5CB8-4707-B2CD-13F91EA4E6F1}.Release|Win32.Build.0 = Release|Win32
+		{CF135F55-EC87-4A9C-B9DF-DC4FC0DF9CBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF135F55-EC87-4A9C-B9DF-DC4FC0DF9CBB}.Debug|Win32.Build.0 = Debug|Win32
+		{CF135F55-EC87-4A9C-B9DF-DC4FC0DF9CBB}.Release|Win32.ActiveCfg = Release|Win32
+		{CF135F55-EC87-4A9C-B9DF-DC4FC0DF9CBB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
